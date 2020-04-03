@@ -16,6 +16,14 @@ a {
 }
 .header-nav > li {
 	display: inline-block;
+	margin-left: 1em;
+}
+.header-nav a {
+	color: #000;
+	font-size: 0.8rem;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 
 /* HERO STYLES */
